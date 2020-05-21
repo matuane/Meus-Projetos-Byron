@@ -1,0 +1,60 @@
+/*=== Geral === */
+
+*{
+    padding: 0;
+ 
+    margin: 0;
+  
+    box-sizing: border-box;
+   
+    transition: 0.5s;
+ }
+
+html {
+  
+    overflow-x: hidden;
+
+}
+/*===== Body ====*/
+body{
+    background-color:#bbdefb;
+}
+ /*NavBar*/   
+/*Imgens Logo*/
+.navbar-material .nav-wrapper .brand-logo img {
+    height: 80px;
+}
+nav{
+    padding-bottom: 6rem;
+    padding-top: 1rem;
+    font-family: 'Fjalla One', sans-serif;
+}
+.img_1{
+    width: 100%;
+    height: auto;
+}
+.margem{
+    margin-left: 9rem;
+}
+.brand-logo{
+    font-family: 'Montserrat Subrayada', sans-serif;
+}
+/*Efeito Parallax*/
+.parallax-container {
+    height: 500px;
+    margin-bottom: 2rem;
+  }
+/*Cards*/
+h2{
+    text-align: center;
+}
+.header{
+    font-family: 'Pacifico', cursive;
+}
+.card-content{
+    font-family: 'Montserrat', sans-serif;
+}
+/*Footer*/
+.lista{
+    list-style: none;
+}
