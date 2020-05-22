@@ -55,6 +55,18 @@ h2{
     font-family: 'Montserrat', sans-serif;
 }
 /*Footer*/
-.lista{
+.sem{
     list-style: none;
 }
+footer{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: larger;
+}
+/*====SMALL DEVICE===*/
+@media screen and (max-width: 500px){
+    footer{
+        text-align: center;
+    }
+}
+
+
